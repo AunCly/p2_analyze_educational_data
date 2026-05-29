@@ -22,15 +22,15 @@ Pour dérouler l'ensemble de l'analyse executer les fichiers dans l'ordre suivan
 python init.py
 ```
 ### 1 - Analyse des fichiers
-p2_file_analyse.ipynb
+p2_part1_file_analyze.ipynb
 
-### 2 - Nettoyer les données
-p2_cleaning.ipynb
+### 2 - Nettoyage des données et selection des indicateurs 
+p2_part2_cleaning_and_preparation.ipynb
 
-### 3 - Sélection des indicateurs
-p2_indicator_selection.ipynb
+### 3 - Analyse et exploration des indicateurs
+p2_part3_exploration_and_analyze.ipynb
 
-### 4 - Analyse et résultats
-p2_analyze.ipynb
+### 4 - Résultats
+p2_part4_results.ipynb
 
 
