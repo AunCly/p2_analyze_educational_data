@@ -17,6 +17,10 @@ Ou : https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/
 ## Analysez les données de systèmes éducatifs
 Pour dérouler l'ensemble de l'analyse executer les fichiers dans l'ordre suivant : 
 
+### 0 - Télécharger le jeu de donnée
+```
+python init.py
+```
 ### 1 - Analyse des fichiers
 p2_file_analyse.ipynb
 
