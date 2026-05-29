@@ -9,3 +9,24 @@ Mark, votre manager, vous a convié à une réunion pour vous présenter le proj
 Mark aimerait explorer les pays avec un fort potentiel de clients pour les services de academy, et voir comment ce potentiel pourrait évoluer. 
 
 Vous allez répondre à la demande de Mark en suivant l’ensemble des exercices entièrement guidés. A la fin des exercices, vous aurez réussi à déterminer si ces jeux de données peuvent fournir des insights guidant academy à décider dans quels pays s’implanter.
+
+## Donnée brutes : 
+Lien de téléchargement => https://www.kaggle.com/datasets/theworldbank/education-statistics
+Ou : https://s3-eu-west-1.amazonaws.com/static.oc-static.com/prod/courses/files/Parcours_data_scientist/Projet+-+Donn%C3%A9es+%C3%A9ducatives/Projet+Python_Dataset_Edstats_csv.zip
+
+## Analysez les données de systèmes éducatifs
+Pour dérouler l'ensemble de l'analyse executer les fichiers dans l'ordre suivant : 
+
+### 1 - Analyse des fichiers
+p2_file_analyse.ipynb
+
+### 2 - Nettoyer les données
+p2_cleaning.ipynb
+
+### 3 - Sélection des indicateurs
+p2_indicator_selection.ipynb
+
+### 4 - Analyse et résultats
+p2_analyze.ipynb
+
+
